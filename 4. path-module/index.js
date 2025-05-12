@@ -12,3 +12,5 @@ console.log("Resolve path:", resolvePath);
 
 const normalizePath = path.normalize("/user/.documents/../node/projects");
 console.log("Normalize path:", normalizePath);
+
+
